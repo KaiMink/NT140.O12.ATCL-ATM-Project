@@ -6,7 +6,7 @@ We propose the adoption of the OAuth 2.0 standard as a methodology to safeguard 
 ## KongGateway
 ![Alt Text](kong-overview.png)
 ## KeyCloak - Auth Server
-![Alt Text](Authentication Flow.png)
+![Alt Text](AuthenticationFlow.png)
 ## Deploy
 ![Alt Text](Deploy.png)
 ## References
