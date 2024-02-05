@@ -6,11 +6,12 @@ We propose the adoption of the OAuth 2.0 standard as a methodology to safeguard 
 ## KongGateway
 ![Alt Text](kong-overview.png)
 ## KeyCloak - Auth Server
-![Alt Text](Authentication Flow.png)
+![Alt Text](AuthenticationFlow.png)
 ## Deploy
 ![Alt Text](Deploy.png)
 ## References
 Hossain, N., Hossain, M. A., Hossain, M. Z., Sohag, M. H. I., & Rahman, S. (2018). Oauthsso: A framework to secure the oauth-based sso service for packaged web applications.
 2018 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications/ 12th IEEE International Conference On Big Data Science And Engineering (TrustCom/BigDataSE), 1575–1578. https://doi.org/10.1109/TrustCom/BigDataSE.2018.00227
+
 Kretarta, A. B., & Kabetta, H. (2022). Secure user management gateway for microservices architecture apis using keycloak on xyz. 2022 5th International Seminar on Research of Information Technology and Intelligent Systems (ISRITI), 7–13. https://doi.org/10.1109/ISRITI56927.2022.10052901
 
